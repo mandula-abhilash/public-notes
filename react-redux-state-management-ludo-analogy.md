@@ -111,5 +111,6 @@ When playing a Ludo game, there are certain actions you want to perform when cer
       // Rest of the component code
     }
     ```
+<br />
 
 By using `useState`, `useEffect`, and Redux in React, you can effectively manage and update the state of your application, just like playing and managing a Ludo game.
